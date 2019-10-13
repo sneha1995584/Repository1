@@ -11,6 +11,7 @@ def add(x,y):
                             pass
                         def multiply(x,y):
                                 pass
+                                x*y
                             def divide(x,y):
                                 def multiply(x,y):
                                         return x*y
